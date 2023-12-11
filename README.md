@@ -1,4 +1,14 @@
-### Hi there 👋
+### 👋 Hi there, I'm Victor Cardoso
+
+- 🛠 IT Professional
+- 🌐 Experience: Microsoft Azure, Home Servers, Linux Administration
+- 🖥 Interests: System Administration, Server Management
+- 📍 Based in Portugal
+- 📧 Email: your.email@example.com
+- 🔗 LinkedIn: [linkedin.com/in/yourlinkedin]
+- 🐦 Twitter: [@yourtwitterhandle]
+
+
 
 <!--
 **shoganaich/shoganaich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
