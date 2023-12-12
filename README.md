@@ -4,9 +4,8 @@
 - 🌐 Experience: Microsoft Azure, Home Servers, Linux Administration
 - 🖥 Interests: System Administration, Server Management
 - 📍 Based in Portugal
-- 📧 Email: your.email@example.com
-- 🔗 LinkedIn: [linkedin.com/in/yourlinkedin]
-- 🐦 Twitter: [@yourtwitterhandle]
+- 📧 Email: shoganaich@tutanota.com
+- 🔗 LinkedIn: [linkedin.com/in/victordccardoso/]
 
 
 
