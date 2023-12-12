@@ -5,7 +5,7 @@
 - 🖥 Interests: System Administration, Server Management
 - 📍 Based in Portugal
 - 📧 Email: shoganaich@tutanota.com
-- 🔗 LinkedIn: [linkedin.com/in/victordccardoso/]
+- 🔗 LinkedIn: [@victordccardoso](www.linkedin.com/in/victordccardoso/)
 
 
 
