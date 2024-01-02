@@ -6,4 +6,3 @@
 - 📍 Based in Portugal
 - 📧 Email: shoganaich@tutanota.com
 - 🔗 LinkedIn: [@victordccardoso](https://www.linkedin.com/in/victordccardoso/)
-- 
