@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Victor Cardoso
 
-- 🛠 IT Professional and Cybersecurity Bachelor's Degree Candidate
+- 🛠 IT Professional and Cybersecurity Bachelor's Degree Student
 - 🌐 Experience: Microsoft Azure, Home Servers, Linux Administration, Proxmox, Virtual Servers, Docker (Services Management)
 - 🖥 Interests: System Administration, Server Management, CyberSecurity, VPS Management
 - 📍 Based in Portugal
