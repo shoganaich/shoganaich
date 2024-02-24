@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋 I am Victor Cardoso</h1>
 <h3 align="center">IT Professional and B.Sc Cybersecurity Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shoganaich&label=Profile%20views&color=0e75b6&style=flat" alt="shoganaich" /> </p>
-
 - 🔭 I’m currently working on a **B.Sc Cybersecurity**
 
 - 🌐 I have experience working with **Microsoft Azure, Linux Servers, Proxmox, Virtual Servers, Docker (Services Management)**
