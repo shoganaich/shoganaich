@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on a **B.Sc Cybersecurity**
 
-- 🌐 I have experience working with **Microsoft Azure, Linux Servers, Proxmox, Virtual Servers, Docker (Services Management)**
+- 🌐 I have experience making projects with **Microsoft Azure, Linux Servers, Proxmox, Virtual Servers, Docker (Services Management)**
 
-- 📫 I am have interest in **Server Administration, SDR Experimentation, CyberSecurity, Retro Gaming Side Projects**
+- 📫 I am interested in **Server Administration, SDR Experimentation, CyberSecurity, and Retro Gaming Side Projects**
 
 - 📍 Based in Portugal
 
