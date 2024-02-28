@@ -19,6 +19,15 @@
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/microsoft_azure/images/e584dc34-9cda-4cd3-b318-b6fe4909e4f8.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ### My Current Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shoganaich&repo=azure-osticket)](https://github.com/shoganaich/azure-osticket)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shoganaich&repo=azure-ad)](https://github.com/shoganaich/azure-ad)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shoganaich&repo=azure-network-traffic)](https://github.com/shoganaich/azure-network-traffic)
+
+
+<a href="https://github.com/shoganaich/azure-osticket">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shoganaich&repo=azure-osticket&theme=transparent" />
+</a>
+<a href="https://github.com/shoganaich/azure-network-traffic">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shoganaich&repo=azure-network-traffic&theme=transparent" />
+</a>
+<a href="https://github.com/shoganaich/azure-ad">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shoganaich&repo=azure-ad&theme=transparent" />
+</a>
+
