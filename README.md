@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I am Victor Cardoso</h1>
 <h3 align="center">IT Professional and B.Sc Cybersecurity Student</h3>
 
-- 🔭 I’m currently working on a **Proxmox HomeLab for experimenting with SDR and Retrogaming**
+- 🔭 I’m currently working on a **HomeLab for experimenting with SDR and Retrogaming**
 
 - 🌐 I have experience making projects with **Microsoft Azure, Linux Servers, Proxmox, Virtual Servers, Docker (Services Management)**
 
