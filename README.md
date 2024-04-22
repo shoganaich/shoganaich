@@ -27,7 +27,3 @@
 <a href="https://github.com/shoganaich/azure-traffic-inspect">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shoganaich&repo=azure-traffic-inspect&theme=transparent" />
 </a>
-<a href="https://github.com/shoganaich/azure-ad">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shoganaich&repo=azure-ad&theme=transparent" />
-</a>
-
