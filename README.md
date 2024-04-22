@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I am Victor Cardoso</h1>
-<h3 align="center">IT Professional and B.Sc Cybersecurity Student</h3>
+<h3 align="center">IT Professional and Tech Enthusiast</h3>
 
 - 🔭 I’m currently working on a **HomeLab for experimenting with SDR and Retrogaming**
 
