@@ -5,7 +5,7 @@
 
 - 🌐 I have experience making projects with **Microsoft Azure, Linux Servers, Proxmox, Virtual Servers, Docker (Services Management)**
 
-- 📫 I am interested in **Server Administration, SDR, CyberSecurity, and Retro Gaming Side Projects**
+- 📫 I am interested in **CyberSecurity, Server Administration, SDR, and Retro Gaming Side Projects**
 
 - 📍 Based in Portugal
 
