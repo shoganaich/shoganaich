@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![omg.lol](https://img.shields.io/badge/my_omg.lol-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://victorcardoso.omg.lol/)
+[![omg.lol](https://img.shields.io/badge/my_website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://victorcardoso.omg.lol/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victordccardoso/)
 [![telegram](https://img.shields.io/badge/telegram-fbfcf8?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/shoganaich)
 
