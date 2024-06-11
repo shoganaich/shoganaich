@@ -30,3 +30,5 @@
 ### Stats
 
 ![Shoganaich's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoganaich&show_icons=true&theme=transparent)
+
+![dino](https://github.com/shoganaich/shoganaich/assets/112911007/bc3ced9f-0854-4002-9e4d-0519dba0552d)
