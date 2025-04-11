@@ -22,6 +22,10 @@
   <a href="https://www.linkedin.com/in/victordccardoso/">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+    <a href="https://shoganaich.bearblog.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-1f1f1f?style=for-the-badge&logo=mdbook&logoColor=white" alt="GitHub" style="transform: scale(1.4); transform-origin: center;" />
+  </a>
+
 </p>
 
 ---
