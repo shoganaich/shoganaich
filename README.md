@@ -1,5 +1,5 @@
 <h1 align="center">🔐 Victor Cardoso aka Shoganaich</h1>
-<h3 align="center">Certified IT Professional | Google Cybersecurity | CompTIA Security+ | SOC Intern</h3>
+<h3 align="center">IT Professional | Google Cybersecurity | CompTIA Security+ | SOC Intern</h3>
 
 <p align="center">👋 Hey there! I’m Victor, a passionate cybersecurity student and a hands-on learning advocate.</p>
 
