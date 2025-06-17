@@ -1,27 +1,33 @@
 <div align="center"><a href="https://github.com/hackelite01/github-readme-cyber-quotes"><img src="https://github-readme-cyber-quotes.vercel.app/api?type=horizontal&theme=nord&border=true" alt="Readme Quotes"></a></div>
 
 <h1 align="center">🔐 Victor Cardoso aka Shoganaich</h1>
-<h3 align="center">IT Professional | Google Cybersecurity | CompTIA Security+ | SOC Intern</h3>
+<h3 align="center">IT Professional | Google Cybersecurity | CompTIA Security+ | Cybersecurity Intern</h3>
 
 <p align="center">👋 Hey there! I’m Victor, a passionate cybersecurity student and a hands-on learning advocate.</p>
 
 ---
-## 🧠 What I’m Into
+### 🧠 What I’m Into
 
 [![SOC Operations](https://img.shields.io/badge/🛡️-SOC%20Operations-blue)](#)
 [![Cyber Research](https://img.shields.io/badge/🐍-Cyber%20Research-green)](#)
 [![RF & Hardware](https://img.shields.io/badge/📡-RF%20%26%20Hardware%20Security-yellow)](#)
 [![Threat & Vuln](https://img.shields.io/badge/🚨-Threat%20%26%20Vulnerability-red)](#)
+[![Homelab](https://img.shields.io/badge/🖥️-Homelab-9cf)](#)
+[![Console Modding](https://img.shields.io/badge/🔓-Console%20Modding-orange)](#)
+[![Gaming](https://img.shields.io/badge/🎮-Video%20Games-purple)](#)
 
 > 🛡️ Log analysis, alert triage, and incident response  
 > 🐍 Scripting, tool-building, blue team   
 > 📡 HackRF, Flipper, SDR, hardware hacking  
-> 🚨 CVE tracking, assessment, mitigation
+> 🚨 CVE tracking, assessment, mitigation  
+> 🖥️ Tinkering with home servers & automation  
+> 🔓 Modding and rescuing old consoles (PS3, DS, 3DS, PSP, and more...)  
+> 🎮 Gaming & collecting video game OSTs  
 
-
-## 🛠️ Tools & Tech I Use
+### 🛠️ Tools & Tech I Use
 
 [![Linux](https://img.shields.io/badge/Linux-OS-informational?logo=linux&logoColor=white&style=for-the-badge)](#)
+[![unRAID](https://img.shields.io/badge/unRAID-Homelab-F15A29?logo=unraid&logoColor=white&style=for-the-badge)](#)
 [![Azure](https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoftazure&logoColor=white&style=for-the-badge)](#)
 [![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker&logoColor=white&style=for-the-badge)](#)
 [![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)](#)
@@ -33,13 +39,13 @@
 [![VPN](https://img.shields.io/badge/VPN-Security-007bff?logo=openvpn&logoColor=white&style=for-the-badge)](#)
 [![CLI](https://img.shields.io/badge/CLI-Tools-333333?style=for-the-badge&logo=powershell&logoColor=white)](#)
 
-> 🐧 Linux & Debian for OS infrastructure  
+> 🐧 Ubuntu Server & Debian for OS infrastructure  
+> 🧡 unRAID for homelab, storage, and multi-VM orchestration  
 > ☁️ Azure for cloud deployments  
 > 🐳 Docker & Portainer for containerization  
 > 🐍 Python & Bash for automation and scripting  
 > 🔥 Firewalls & networking tools for secure architecture  
 > 🔑 VPN, CLI, and more for day-to-day work
-
 
 ---
 
@@ -50,11 +56,13 @@
 
 
 <p align="center">
+  <a href="https://github.com/shoganaich/ctf-journal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoganaich&repo=ctf-journal&theme=transparent" />
+  </a>
   <a href="https://github.com/shoganaich/securityplus-701-gpt">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoganaich&repo=securityplus-701-gpt&theme=transparent" />
   </a>
 </p>
-
 
 <h4 align="center">🛠️🖥️ IT</h4>
 
