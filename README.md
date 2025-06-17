@@ -1,16 +1,72 @@
+<div align="center"><a href="https://github.com/hackelite01/github-readme-cyber-quotes"><img src="https://github-readme-cyber-quotes.vercel.app/api?type=horizontal&theme=nord&border=true" alt="Readme Quotes"></a></div>
+
 <h1 align="center">🔐 Victor Cardoso aka Shoganaich</h1>
 <h3 align="center">IT Professional | Google Cybersecurity | CompTIA Security+ | SOC Intern</h3>
 
 <p align="center">👋 Hey there! I’m Victor, a passionate cybersecurity student and a hands-on learning advocate.</p>
 
 ---
+## 🧠 What I’m Into
 
-<h3 align="center">🧠 What I’m Into</h3>
+[![SOC Operations](https://img.shields.io/badge/🛡️-SOC%20Operations-blue)](#)
+[![Cyber Research](https://img.shields.io/badge/🐍-Cyber%20Research-green)](#)
+[![RF & Hardware](https://img.shields.io/badge/📡-RF%20%26%20Hardware%20Security-yellow)](#)
+[![Threat & Vuln](https://img.shields.io/badge/🚨-Threat%20%26%20Vulnerability-red)](#)
 
-- 🛡️ **SOC Operations** — Log analysis, alert triage, and incident response workflows  
-- 🐍 **Cyber Research** — Scripting, and building tools like my [Security+ 701 GPT Assistant](https://github.com/shoganaich/securityplus-701-gpt) for blue team knowledge and exam prep  
-- 📡 **RF & Hardware Security** — Working with HackRF Portapack, Flipper Zero, RTL-SDR, Proxmark3, TinySA, and more for signal analysis, RF capture, and hardware exploration  
-- 🚨 **Threat & Vulnerability Management** — CVE tracking, assessment, and mitigation strategies  
+> 🛡️ Log analysis, alert triage, and incident response  
+> 🐍 Scripting, tool-building, blue team   
+> 📡 HackRF, Flipper, SDR, hardware hacking  
+> 🚨 CVE tracking, assessment, mitigation
+
+
+## 🛠️ Tools & Tech I Use
+
+[![Linux](https://img.shields.io/badge/Linux-OS-informational?logo=linux&logoColor=white&style=for-the-badge)](#)
+[![Azure](https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoftazure&logoColor=white&style=for-the-badge)](#)
+[![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker&logoColor=white&style=for-the-badge)](#)
+[![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)](#)
+[![Python](https://img.shields.io/badge/Python-Scripting-yellow?logo=python&logoColor=white&style=for-the-badge)](#)
+[![Debian](https://img.shields.io/badge/Debian-OS-A81D33?logo=debian&logoColor=white&style=for-the-badge)](#)
+[![Firewall](https://img.shields.io/badge/Firewall-Networking-orange?style=for-the-badge&logo=fortinet&logoColor=white)](#)
+[![Ethernet](https://img.shields.io/badge/Ethernet-Networking-blue?style=for-the-badge&logo=ethernet&logoColor=white)](#)
+[![Portainer](https://img.shields.io/badge/Portainer-Containers-0db7ed?logo=portainer&logoColor=white&style=for-the-badge)](#)
+[![VPN](https://img.shields.io/badge/VPN-Security-007bff?logo=openvpn&logoColor=white&style=for-the-badge)](#)
+[![CLI](https://img.shields.io/badge/CLI-Tools-333333?style=for-the-badge&logo=powershell&logoColor=white)](#)
+
+> 🐧 Linux & Debian for OS infrastructure  
+> ☁️ Azure for cloud deployments  
+> 🐳 Docker & Portainer for containerization  
+> 🐍 Python & Bash for automation and scripting  
+> 🔥 Firewalls & networking tools for secure architecture  
+> 🔑 VPN, CLI, and more for day-to-day work
+
+
+---
+
+<h3 align="center">📂 Featured Projects</h3>
+<p align="center"><i>(More coming soon...)</i></p>
+
+<h4 align="center">🕵️‍♂️🔍 Cybersecurity</h4>
+
+
+<p align="center">
+  <a href="https://github.com/shoganaich/securityplus-701-gpt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoganaich&repo=securityplus-701-gpt&theme=transparent" />
+  </a>
+</p>
+
+
+<h4 align="center">🛠️🖥️ IT</h4>
+
+<p align="center">
+  <a href="https://github.com/shoganaich/azure-osticket">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoganaich&repo=azure-osticket&theme=transparent" />
+  </a>
+  <a href="https://github.com/shoganaich/azure-traffic-inspect">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoganaich&repo=azure-traffic-inspect&theme=transparent" />
+  </a>
+</p>
+
 ---
 
 <h3 align="center">🔗 Connect with Me</h3>
@@ -24,51 +80,6 @@
   </a>
     <a href="https://shoganaich.bearblog.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Blog-1f1f1f?style=for-the-badge&logo=mdbook&logoColor=white" alt="GitHub" style="transform: scale(1.4); transform-origin: center;" />
-  </a>
-
-</p>
-
----
-
-<h3 align="center">🛠️ Tools & Tech I Use</h3>
-<p align="center"><i>Tools I work with in cybersecurity, networking, scripting, and cloud environments</i></p>
-
-<p align="center">
-  <!-- OS & Infra -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"/>
-  <img src="https://upload.vectorlogo.zone/logos/microsoft_azure/images/e584dc34-9cda-4cd3-b318-b6fe4909e4f8.svg" width="40" alt="Azure"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" alt="Bash"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
-
-  <!-- Networking -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40" alt="Debian"/>
-  <img src="https://img.icons8.com/color/48/000000/firewall.png" width="40" alt="Firewall Icon"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/ethernet-on.png" width="40" alt="Networking"/>
-
-
-  <!-- Tools -->
-  <img src="https://avatars.githubusercontent.com/u/22225832?s=200&v=4" width="40" alt="Portainer"/>
-  <img src="https://img.icons8.com/fluency/48/000000/vpn.png" width="40" alt="VPN"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/command-line.png" width="40" alt="CLI"/>
-</p>
-
-
----
-
-<h3 align="center">📂 Featured Projects</h3>
-
-<p align="center"><i>(More coming soon...)</i></p>
-
-<p align="center">
-  <a href="https://github.com/shoganaich/azure-osticket">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoganaich&repo=azure-osticket&theme=transparent" />
-  </a>
-  <a href="https://github.com/shoganaich/azure-traffic-inspect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoganaich&repo=azure-traffic-inspect&theme=transparent" />
-  </a>
-  <a href="https://github.com/shoganaich/securityplus-701-gpt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoganaich&repo=securityplus-701-gpt&theme=transparent" />
   </a>
 </p>
 
