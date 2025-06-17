@@ -94,6 +94,7 @@
 ---
 
 <p align="center">
+  <a href="https://shoganaich.bearblog.dev/why-theres-a-dino-in-the-logs/" target="_blank">
   <img src="https://github.com/shoganaich/shoganaich/assets/112911007/bc3ced9f-0854-4002-9e4d-0519dba0552d" width="450px" />
 </p>
 
