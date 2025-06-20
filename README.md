@@ -3,7 +3,7 @@
 <h1 align="center">🔐 Victor Cardoso aka Shoganaich</h1>
 <h3 align="center">Cybersecurity Support Technician | Google Cybersecurity | CompTIA Security+ | Vulnerability Management & SecOps</h3>
 
-<p align="center">👋 Hey there! I’m Victor, a passionate cybersecurity student and a hands-on learning advocate.</p>
+<p align="center">👋 Hey there! I’m Victor, a passionate cybersecurity professional and a hands-on learning advocate.</p>
 
 ---
 ### 🧠 What I’m Into
