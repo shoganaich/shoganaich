@@ -1,7 +1,7 @@
 <div align="center"><a href="https://github.com/hackelite01/github-readme-cyber-quotes"><img src="https://github-readme-cyber-quotes.vercel.app/api?type=horizontal&theme=nord&border=true" alt="Readme Quotes"></a></div>
 
 <h1 align="center">🔐 Victor Cardoso aka Shoganaich</h1>
-<h3 align="center">IT Professional | Google Cybersecurity | CompTIA Security+ | Cybersecurity Intern</h3>
+<h3 align="center">Cybersecurity Support Technician | Google Cybersecurity | CompTIA Security+ | Vulnerability Management & SecOps</h3>
 
 <p align="center">👋 Hey there! I’m Victor, a passionate cybersecurity student and a hands-on learning advocate.</p>
 
