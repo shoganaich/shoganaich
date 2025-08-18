@@ -56,8 +56,8 @@
 
 
 <p align="center">
-  <a href="https://github.com/shoganaich/ctf-journal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoganaich&repo=ctf-journal&theme=transparent" />
+  <a href="https://github.com/shoganaich/blue-journal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoganaich&repo=blue-journal&theme=transparent" />
   </a>
   <a href="https://github.com/shoganaich/securityplus-701-gpt">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoganaich&repo=securityplus-701-gpt&theme=transparent" />
