@@ -50,7 +50,6 @@
 ---
 
 <h3 align="center">📂 Featured Projects</h3>
-<p align="center"><i>(More coming soon...)</i></p>
 
 <h4 align="center">🕵️‍♂️🔍 Cybersecurity</h4>
 
@@ -61,6 +60,10 @@
   </a>
   <a href="https://github.com/shoganaich/securityplus-701-gpt">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoganaich&repo=securityplus-701-gpt&theme=transparent" />
+  </a>
+    </a>
+  <a href="https://github.com/shoganaich/stig-powershell-remediations">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoganaich&repo=stig-powershell-remediations&theme=transparent" />
   </a>
 </p>
 
