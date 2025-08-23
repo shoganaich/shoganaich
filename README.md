@@ -17,10 +17,12 @@
 ---
 
 ### 🛠️ Tools & Technologies
-- **OS & Infra:** Ubuntu, Debian, unRAID  
+- **OS & Infra:** Linux (Ubuntu Server, Kali for security tasks, Debian), unRAID (homelab), Windows Server (AD basics), Proxmox (virtualization)  
 - **Cloud & Containers:** Azure, Docker, Portainer  
 - **Scripting & Automation:** Python, Bash, PowerShell  
-- **Security & Networking:** VPN, Firewalls, CLI  
+- **Security & Networking:** VPN, Windows Firewall, Little Snitch, Tenable (vulnerability management), SIEM (Sentinel), Microsoft Defender for Endpoint (Threat Hunting)  
+- **Monitoring & Analysis:** Azure Log Analytics, Wireshark (traffic & wireless packet analysis)  
+- **Version Control & Dev:** Git (branching, pull requests), GitHub Actions
 
 ---
 
@@ -33,9 +35,9 @@
 ---
 
 ### 🔗 Connect with Me
-- 🌐 [Personal Site](https://victorcardoso.omg.lol/)  
+- 🌐 [Personal Site](https://victorcardoso.pro/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/victordccardoso/)  
-- ✍️ [Blog](https://shoganaich.bearblog.dev/)  
+- ✍️ [Blog](https://victorcardoso.blog/)  
 
 ---
 <div align="center"><a href="https://github.com/hackelite01/github-readme-cyber-quotes"><img src="https://github-readme-cyber-quotes.vercel.app/api?type=horizontal&theme=nord&border=true" alt="Readme Quotes"></a></div>
