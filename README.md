@@ -20,7 +20,7 @@
 - **OS & Infra:** Linux (Ubuntu Server, Kali for security tasks, Debian), unRAID (homelab), Windows Server (AD basics), Proxmox (virtualization)  
 - **Cloud & Containers:** Azure, Docker, Portainer  
 - **Scripting & Automation:** Python, Bash, PowerShell  
-- **Security & Networking:** VPN, Windows Firewall, Little Snitch, Tenable (vulnerability management), SIEM (Sentinel), Microsoft Defender for Endpoint (Threat Hunting)  
+- **Security & Networking:** VPN, Windows Firewall, Little Snitch, Tenable (vulnerability management), SIEM (Azure Sentinel), Microsoft Defender for Endpoint (Threat Hunting)  
 - **Monitoring & Analysis:** Azure Log Analytics, Wireshark (traffic & wireless packet analysis)  
 - **Version Control & Dev:** Git (branching, pull requests), GitHub Actions
 
