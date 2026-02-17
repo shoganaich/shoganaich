@@ -1,8 +1,8 @@
 <h1 align="center">🔐 Victor Cardoso (Shoganaich)</h1>
-<h3 align="center">Cybersecurity Support Engineer (Intern) | Security+ | Vulnerability Management & SecOps</h3>
+<h3 align="center">Defensive Security | SecOps | Vulnerability Management | Homelab Automation</h3>
 <br>
 <p align="center">
-👋 Hi there! I’m Victor, a cybersecurity professional with a focus on incident response, vulnerability management, and hands-on learning.  
+👋 I'm Victor, focused on defensive security operations, vulnerability management, and practical infrastructure security. I build and automate lab environments to better understand attack surfaces, detection logic, and system resilience.  
 </p>
 
 ---
