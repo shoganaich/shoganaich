@@ -1,43 +1,22 @@
-<h1 align="center">🔐 Victor Cardoso (shoganaich)</h1>
-<h3 align="center">Defensive Security | SecOps | Vulnerability Management | Homelab Automation</h3>
-<br>
-<p align="center">
-👋 I'm Victor, focused on defensive security operations, vulnerability management, and practical infrastructure security. I build and automate lab environments to better understand attack surfaces, detection logic, and system resilience.  
-</p>
+### Victor Cardoso (aka shoganaich)
+#### Security | Infrastructure | Homelab
+
+Hi, I'm Victor. I'm interested in security, infrastructure, and building things in my homelab.
+
+Most of what I learn comes from working with Linux, self-hosted services, networking, automation, and lab projects, including containers, monitoring, routing, nftables, dnsmasq, and Tailscale.
 
 ---
 
-### 🧠 Areas of Interest
-- 🛡️ SOC Operations & Incident Response  
-- 🐍 Scripting & tool-building (Python, Bash)  
-- 📡 RF & Hardware Security (HackRF, SDR, Flipper)  
-- 🚨 Threat & Vulnerability Management  
-- 🖥️ Homelab tinkering & server automation  
+#### Tools & Technologies
+- **Linux:** Debian-based systems, Ubuntu Server, Debian minimal, Arch, CachyOS
+- **Infrastructure:** Proxmox (QEMU), unRAID, Azure
+- **Containers:** Docker, Docker Compose
+- **Networking & Services:** nftables, routing, dnsmasq, Tailscale
+- **Automation:** Python, Bash, PowerShell
+- **Security:** Wazuh, OpenVAS, Microsoft Defender for Endpoint, Tenable, Microsoft Sentinel
 
----
-
-### 🛠️ Tools & Technologies
-- **OS & Infra:** Linux (Ubuntu Server, Kali for security tasks, Debian), unRAID (homelab), Windows Server (AD basics), Proxmox (virtualization)  
-- **Cloud & Containers:** Azure, Docker, Portainer  
-- **Scripting & Automation:** Python, Bash, PowerShell  
-- **Security & Networking:** VPN, Windows Firewall, Little Snitch, Tenable (vulnerability management), SIEM (Azure Sentinel), Microsoft Defender for Endpoint (Threat Hunting)  
-- **Monitoring & Analysis:** Azure Log Analytics, Wireshark (traffic & wireless packet analysis)  
-- **Version Control & Dev:** Git (branching, pull requests), GitHub Actions
-
----
-
-### 📂 Featured Projects
-- [**Blue Journal**](https://github.com/shoganaich/blue-journal) – Cybersecurity writeups, threat hunting notes, red/blue team logs.  
-- [**Security+ 701 GPT**](https://github.com/shoganaich/securityplus-701-gpt) – AI-powered study assistant for CompTIA Security+.  
-- [**STIG PowerShell Remediations**](https://github.com/shoganaich/stig-powershell-remediations) – Scripts to automate DISA STIG compliance.  
-- [**Azure Osticket**](https://github.com/shoganaich/azure-osticket) – Setup guide for ticketing system on Azure.  
-
----
-
-### 🔗 Connect with Me
-- 🌐 [Personal Site](https://victorcardoso.pro/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/victordccardoso/)  
-- ✍️ [Blog](https://victorcardoso.blog/)  
-
----
-<div align="center"><a href="https://github.com/hackelite01/github-readme-cyber-quotes"><img src="https://github-readme-cyber-quotes.vercel.app/api?type=horizontal&theme=nord&border=true" alt="Readme Quotes"></a></div>
+#### Fun Facts
+- I've been using Linux since 2018
+- Even though I'm Gen Z, I grew up playing retro games and still play them to this day
+- A lot of what I learn comes from homelab projects, self-hosting, and trial and error
+- If it wasn't obvious from the profile picture, I like cats
