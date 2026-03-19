@@ -1,4 +1,4 @@
-<h1 align="center">🔐 Victor Cardoso (Shoganaich)</h1>
+<h1 align="center">🔐 Victor Cardoso (shoganaich)</h1>
 <h3 align="center">Defensive Security | SecOps | Vulnerability Management | Homelab Automation</h3>
 <br>
 <p align="center">
